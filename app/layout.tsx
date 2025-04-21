@@ -7,7 +7,7 @@ import Footer from "@/components/footer"
 
 
 export const metadata: Metadata = {
-  title: "ClientFirst - Building Excellence",
+  title: "Amar Constructions - Building Excellence",
   description: "Premium construction services for residential, commercial, and industrial projects",
 }
 
