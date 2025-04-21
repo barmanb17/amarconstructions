@@ -60,7 +60,7 @@ const NavbarComponent = () => {
       <MobileNav className="py-4">
         <MobileNavHeader>
         <Link href="/" className="flex flex-row items-center  text-lg font-bold">
-      <img src="/logo.png" alt="Logo" className="w-12 h-10 rounded-lg" />
+      <img src="/amarlogo.jpg" alt="Logo" className="w-12 h-10 rounded-lg" />
       
       </Link>
           <MobileNavToggle isOpen={isMobileMenuOpen} onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)} />
